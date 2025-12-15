@@ -6,7 +6,7 @@ body {
 
 }
 .navbar {
-    background-color: rgb(104, 91, 104);
+    background-color: black;
 }
 .navbar a {
     color: white;
@@ -257,6 +257,7 @@ form input{
 h3 {
     margin-left: 200px;
 }
+
 
 
 
