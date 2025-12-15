@@ -6,10 +6,10 @@ body {
 
 }
 .navbar {
-    background-color: black;
+    background-color: white;
 }
 .navbar a {
-    color: white;
+    color:rgb(104, 91, 104) ;
 }
 .main-container {
     height: 600px;
@@ -257,6 +257,7 @@ form input{
 h3 {
     margin-left: 200px;
 }
+
 
 
 
