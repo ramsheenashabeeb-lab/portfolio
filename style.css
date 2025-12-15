@@ -9,7 +9,7 @@ body {
     background-color: grey;
 }
 .navbar a {
-    color:rgb(104, 91, 104) ;
+    color: white;
 }
 .main-container {
     height: 600px;
@@ -257,6 +257,7 @@ form input{
 h3 {
     margin-left: 200px;
 }
+
 
 
 
