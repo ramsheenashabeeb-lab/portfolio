@@ -15,7 +15,7 @@ body {
 .main-container {
     height: 600px;
     color: white;
-    background-color: rgb(78, 7, 78);
+    background-color: white;
 }
 h6 {
     margin-left: 150px;
@@ -258,6 +258,7 @@ form input{
 h3 {
     margin-left: 200px;
 }
+
 
 
 
