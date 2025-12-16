@@ -15,7 +15,7 @@ body {
 .main-container {
     height: 600px;
     color: white;
-    background-color: white;
+    background-color: rgb(78, 7, 78);
 }
 h6 {
     margin-left: 150px;
@@ -37,7 +37,6 @@ h1 {
 .icons {
     justify-content: space-between;
     margin-left: 170px;
-    color: white;
     
 }
 .button-section {
@@ -259,6 +258,7 @@ form input{
 h3 {
     margin-left: 200px;
 }
+
 
 
 
