@@ -37,6 +37,7 @@ h1 {
 .icons {
     justify-content: space-between;
     margin-left: 170px;
+    color: white;
     
 }
 .button-section {
@@ -258,6 +259,7 @@ form input{
 h3 {
     margin-left: 200px;
 }
+
 
 
 
